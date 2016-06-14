@@ -1,0 +1,16 @@
+D:\Alex\Informatica\C#\Projects\Puzzle_Game\Puzzle_Game\bin\Debug\Puzzle_Game.exe
+D:\Alex\Informatica\C#\Projects\Puzzle_Game\Puzzle_Game\bin\Debug\Puzzle_Game.pdb
+D:\Alex\Informatica\C#\Projects\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.Form1.resources
+D:\Alex\Informatica\C#\Projects\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.Properties.Resources.resources
+D:\Alex\Informatica\C#\Projects\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.csproj.GenerateResource.Cache
+D:\Alex\Informatica\C#\Projects\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.exe
+D:\Alex\Informatica\C#\Projects\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.pdb
+D:\Alex\Informatica\C#\Projects\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.csprojResolveAssemblyReference.cache
+D:\Alex\Informatica\Jocuri\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.exe
+D:\Alex\Informatica\Jocuri\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.pdb
+D:\Alex\Informatica\Jocuri\Puzzle_Game\Puzzle_Game\bin\Debug\Puzzle_Game.exe
+D:\Alex\Informatica\Jocuri\Puzzle_Game\Puzzle_Game\bin\Debug\Puzzle_Game.pdb
+D:\Alex\Informatica\Jocuri\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.csprojResolveAssemblyReference.cache
+D:\Alex\Informatica\Jocuri\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.Form1.resources
+D:\Alex\Informatica\Jocuri\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.Properties.Resources.resources
+D:\Alex\Informatica\Jocuri\Puzzle_Game\Puzzle_Game\obj\x86\Debug\Puzzle_Game.csproj.GenerateResource.Cache
